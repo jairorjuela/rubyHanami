@@ -1,0 +1,3 @@
+project=ruby_hanami
+test=rspec
+template=erb
